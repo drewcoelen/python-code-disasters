@@ -1,4 +1,5 @@
 import random
+
 from models import Player, Field, Ship
 from restrictions import CheckSurround, BorderRestriction
 
